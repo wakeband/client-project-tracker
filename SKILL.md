@@ -1,6 +1,10 @@
 ---
 name: client-project-tracker
+version: 1.0.0
 description: Track client projects, deliverables, deadlines, invoices, and relationships for freelancers and consultants. Light CRM with project history and communication notes. Use when anyone mentions a client project, freelance work, deliverable, invoice, proposal, deadline, or client follow-up.
+metadata:
+  openclaw:
+    emoji: 💼
 ---
 
 # Client Project Tracker
